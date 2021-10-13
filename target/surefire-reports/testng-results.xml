@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.selenium.inetbanking_project" duration-ms="53861" started-at="2021-10-13T16:38:33 IST" finished-at="2021-10-13T16:39:27 IST">
+    <groups>
+    </groups>
+    <test name="Banking Test 1" duration-ms="28459" started-at="2021-10-13T16:38:33 IST" finished-at="2021-10-13T16:39:01 IST">
+      <class name="Test_cases.Test_case_3">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Test_cases.Test_case_3@48503868]" name="setup" is-config="true" duration-ms="3864" started-at="2021-10-13T16:38:46 IST" finished-at="2021-10-13T16:38:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:Test_cases.Test_case_3@48503868]" name="addNewCustomer" duration-ms="11389" started-at="2021-10-13T16:38:50 IST" finished-at="2021-10-13T16:39:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Test_cases.Test_case_3@48503868]" name="close" is-config="true" duration-ms="187" started-at="2021-10-13T16:39:01 IST" finished-at="2021-10-13T16:39:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test_cases.Test_case_3 -->
+      <class name="Test_cases.Test_case_1">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Test_cases.Test_case_1@51cdd8a]" name="setup" is-config="true" duration-ms="7564" started-at="2021-10-13T16:38:33 IST" finished-at="2021-10-13T16:38:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="StartTest()[pri:0, instance:Test_cases.Test_case_1@51cdd8a]" name="StartTest" duration-ms="4966" started-at="2021-10-13T16:38:41 IST" finished-at="2021-10-13T16:38:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Test_cases.Test_case_1@51cdd8a]" name="close" is-config="true" duration-ms="130" started-at="2021-10-13T16:38:46 IST" finished-at="2021-10-13T16:38:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test_cases.Test_case_1 -->
+    </test> <!-- Banking Test 1 -->
+    <test name="Banking Test 2" duration-ms="8" started-at="2021-10-13T16:39:02 IST" finished-at="2021-10-13T16:39:02 IST">
+    </test> <!-- Banking Test 2 -->
+    <test name="Banking Test 3" duration-ms="24635" started-at="2021-10-13T16:39:02 IST" finished-at="2021-10-13T16:39:27 IST">
+      <class name="Test_cases.Test_case_3">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Test_cases.Test_case_3@11438d26]" name="setup" is-config="true" duration-ms="4138" started-at="2021-10-13T16:39:11 IST" finished-at="2021-10-13T16:39:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:Test_cases.Test_case_3@11438d26]" name="addNewCustomer" duration-ms="11839" started-at="2021-10-13T16:39:15 IST" finished-at="2021-10-13T16:39:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Test_cases.Test_case_3@11438d26]" name="close" is-config="true" duration-ms="223" started-at="2021-10-13T16:39:27 IST" finished-at="2021-10-13T16:39:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test_cases.Test_case_3 -->
+      <class name="Test_cases.Test_case_1">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Test_cases.Test_case_1@458c1321]" name="setup" is-config="true" duration-ms="3856" started-at="2021-10-13T16:39:02 IST" finished-at="2021-10-13T16:39:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="StartTest()[pri:0, instance:Test_cases.Test_case_1@458c1321]" name="StartTest" duration-ms="4271" started-at="2021-10-13T16:39:06 IST" finished-at="2021-10-13T16:39:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Test_cases.Test_case_1@458c1321]" name="close" is-config="true" duration-ms="292" started-at="2021-10-13T16:39:10 IST" finished-at="2021-10-13T16:39:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test_cases.Test_case_1 -->
+    </test> <!-- Banking Test 3 -->
+  </suite> <!-- com.selenium.inetbanking_project -->
+</testng-results>
